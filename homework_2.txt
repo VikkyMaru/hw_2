@@ -13,5 +13,8 @@ Public class roller-coaster{
 		stops a train/cabbins if emergency;
 		slows down a train/cabbins if emergency;
 	}
+	Anti-Rollback Device{
+		prevents the trains from rolling backwards;
+	}
 
 }
