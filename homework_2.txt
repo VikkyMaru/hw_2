@@ -4,6 +4,14 @@ Public class roller-coaster{
 		rules hydraulic system;//turn on brakes
 		starts a Linear Induction Motor;
 		starts a Linear Synchronous Motor;
+	}	
+	Brakes(train, cabbins){
+		stops a train/cabbins;
+		slows down a train/cabbins;
+	}
+	Check Brake(train, cabbins){
+		stops a train/cabbins if emergency;
+		slows down a train/cabbins if emergency;
 	}
 	Anti-Rollback Device{
 		prevents the trains from rolling backwards;
