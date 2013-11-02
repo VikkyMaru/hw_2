@@ -8,5 +8,10 @@ Public class roller-coaster{
 	Anti-Rollback Device{
 		prevents the trains from rolling backwards;
 	}
-
+	Linear Induction Motor{
+		launches a train along or up a section of steel track;
+	}
+	Linear Synchronous Motor{
+		launch a train along a straight section of track of hill;
+	}
 }
