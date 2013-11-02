@@ -14,4 +14,22 @@ Public class roller-coaster{
 	Linear Synchronous Motor{
 		launch a train along a straight section of track of hill;
 	}
+	Catapult-launch Lift{
+		sets the train in motion;
+	}
+	Chain Lift{//цепь лифта - это такая гусеница на которой крепятся кабинки, которые образуют поезд
+		pulls the train to the top of the hill;
+	}
+	Train {
+		moves on the rails
+	}
+	Cabbins{
+		contains passengers
+	}
+	Seats{
+		contains seating passengers
+	}
+	OTSR{//Over-The-Shoulder Restraint
+		protects shoulders while riding
+	}
 }
