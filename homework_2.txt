@@ -8,4 +8,7 @@ Public class roller-coaster{
 	Linear Induction Motor{
 		launches a train along or up a section of steel track;
 	}
+	Linear Synchronous Motor{
+		launch a train along a straight section of track of hill;
+	}
 }
