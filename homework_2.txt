@@ -9,5 +9,9 @@ Public class roller-coaster{
 		stops a train/cabbins;
 		slows down a train/cabbins;
 	}
+	Check Brake(train, cabbins){
+		stops a train/cabbins if emergency;
+		slows down a train/cabbins if emergency;
+	}
 
 }
