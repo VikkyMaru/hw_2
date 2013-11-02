@@ -1,0 +1,8 @@
+/*Американские горки*/
+Public class roller-coaster{
+	Central Computer{
+		rules hydraulic system;
+		starts a Linear Induction Motor;
+		starts a Linear Synchronous Motor;
+	}
+}
